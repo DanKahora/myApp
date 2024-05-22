@@ -1,0 +1,28 @@
+item {
+  width: 500px;
+  color: #353935;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.itemName {
+  font-weight: bold;
+}
+
+.line {
+  border: 1px solid #f4f4f4;
+}
+.cancelButton {
+  float: right;
+  border-radius: 4px;
+  padding: 12px 20px;
+  border: none;
+  background-color: #f7ca18;
+  color: white;
+  margin-top: -5px;
+  cursor: pointer;
+}
+
+.markComplete {
+  text-decoration: line-through;
+}
